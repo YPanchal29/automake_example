@@ -1,3 +1,3 @@
-bin_PROGRAMS = sample
-sample_SOURCES = sample.c
+SUBDIRS = src
+
 
